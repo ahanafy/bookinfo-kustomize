@@ -1,0 +1,4 @@
+resources:
+- destination-rule.yaml
+- istio-policy.yaml
+- virtualservice.yaml
